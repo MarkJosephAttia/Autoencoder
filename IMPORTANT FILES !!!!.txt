@@ -1,0 +1,5 @@
+Important files to run the auto encoder you can download them from here : https://mega.nz/#F!uShT3I5b!WyKu-Ct1jzYDFDqmZKubhA
+
+200N 38E.bin    		//Weights for a network of 200 neurons you can load it from net::load()
+400 100 40 100 400.bin 		//Weights for a network of 7 layers and these are the neurons numbers
+//The rest of the files are images for the training and testing
